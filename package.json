@@ -1,6 +1,6 @@
 {
   "name": "nodejs-hmr",
-  "version": "0",
+  "version": "0.0.0",
   "scripts": {
     "start": "node dev.js"
   },
